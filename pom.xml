@@ -7,7 +7,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mulesoft.training</groupId>
-	<artifactId>maven-project-ark</artifactId>
+	<artifactId>maven-project-ark1</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>mule</packaging>
 	<name>Mule maven-project Application</name>
