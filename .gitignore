@@ -48,3 +48,6 @@ target/
 src/main/api/.repository/ 
 derby.log
 activemq-data/
+
+
+keytool -genkeypair -keyalg RSA -alias selfsigned -keystore serverKeyStore.jks -storepass password -validity 360 -keysize 2048

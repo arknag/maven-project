@@ -18,11 +18,10 @@
 
 		<mule.version>3.9.0</mule.version>
 		<mule.tools.version>1.2</mule.tools.version>
-
 		<activemq.version>5.15.2</activemq.version>
 		<derby.version>10.14.1.0</derby.version>
 		<uid>anagarjan</uid>
-		<pwd>pwdencrypt</pwd>
+		<pwd></pwd>
 	</properties>
 
 	<build>
